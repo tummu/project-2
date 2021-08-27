@@ -480,6 +480,8 @@ ul{
 	background-color: #0b47dd;
     padding: 70px 0;
     justify-content: space-between;
+    align-items: center;
+    text-align: center;
 }
 .footer-col{
    width: 25%;
